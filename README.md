@@ -49,6 +49,28 @@ real client testimonials to the References page.
 
 ---
 
+## 📅 Assignment Tracker
+ 
+**A weekly assignment tracker for college students, built in one session using AI-assisted development.**
+ 
+🔗 [Live Demo](https://assignmenttrackerapp.netlify.app/) · [GitHub](https://github.com/Je9017962/Assignment-Tracker/tree/main)
+ 
+**Tech Stack:** HTML, CSS, Vanilla JavaScript, Claude API, Netlify
+ 
+**What it does:**
+- Individual & group views — toggle between personal assignments and shared group projects
+- Group creation & joining — create a group and share a code for teammates to join
+- Subtasks per assignment — break down each assignment into steps, assign them to specific people
+- Syllabus PDF import — upload a PDF syllabus and AI extracts all assignments for the week automatically
+- Due times with alerts — set exact due times; overdue and due-soon warnings appear automatically
+- Course color coding — each course gets a unique color stripe and pill badge for quick scanning
+- Live stats bar — total, done, in-progress, and due-today counts update in real time
+
+**What I'd do differently:**
+Persist data in localStorage so assignments survive a page refresh. I'd also add a backend proxy for the API key so syllabus import is safe for public use, and build a mobile-optimized layout for phone use during class.
+
+---
+
 ## 🛠️ Skills
 **Frontend:** React, Vite, React Router, HTML, CSS, JavaScript  
 **Backend:** Firebase Auth, Firestore, Firestore Security Rules  
