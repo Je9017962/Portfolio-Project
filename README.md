@@ -79,4 +79,5 @@ Persist data in localStorage so assignments survive a page refresh. I'd also add
 ---
 
 ## 📬 Contact
-[Email Me](morriswyle.jeremi@gmail.com) · [Connect on Linkedin](www.linkedin.com/in/jeremiahmw) · [Portfolio](https://jeremiahmwportfolio.my.canva.site/)
+
+[Email Me](mailto:morriswyle.jeremi@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/jeremiahmw) · [Portfolio](https://jeremiahmwportfolio.my.canva.site/)
