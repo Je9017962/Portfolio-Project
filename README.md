@@ -1,6 +1,6 @@
 # Hey, I'm Jeremiah Morris-Wyley
 
-Web developer comfortable with the full stack, from React frontends 
+Web Content Producer comfortable with the full stack, from React frontends 
 to Firebase backends and everything in between.
 
 ---
