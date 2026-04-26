@@ -49,7 +49,7 @@ real client testimonials to the References page.
 
 ---
 
-## 📅 Assignment Tracker
+## 📅 Assignment Tracker (Complete Teir Mini-Project)
  
 **A weekly assignment tracker for college students, built in one session using AI-assisted development.**
  
@@ -74,7 +74,7 @@ Persist data in localStorage so assignments survive a page refresh. I'd also add
 ## 🛠️ Skills
 **Frontend:** React, Vite, React Router, HTML, CSS, JavaScript  
 **Backend:** Firebase Auth, Firestore, Firestore Security Rules  
-**Tools:** Git, GitHub, Netlify, Vite, Claude AI  
+**Tools:** Git, GitHub, Netlify, Claude AI  
 
 ---
 
